@@ -1,0 +1,27 @@
+{
+  "name": "a-lost-bot",
+  "version": "1.0.0",
+  "description": "Where am I",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lost-kid/a-lost-bot.git"
+  },
+  "author": "lost-kid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lost-kid/a-lost-bot/issues"
+  },
+  "homepage": "https://github.com/lost-kid/a-lost-bot#readme",
+  "dependencies": {
+    "@sentry/node": "^5.11.1",
+    "discord.js": "^11.5.1",
+    "junk": "^3.1.0",
+    "mysql": "^2.18.1",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^1.0.7"
+  }
+}
